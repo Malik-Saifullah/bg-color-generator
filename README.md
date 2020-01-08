@@ -1,1 +1,1 @@
-# bg-color-generator.github.io
+# bg-color-generator
